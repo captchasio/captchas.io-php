@@ -219,9 +219,9 @@ try {
     // captcha is not solved so far
 }
 ```
-[CAPTCHAs.IO]: https://CAPTCHAs.IO.com/
-[CAPTCHAs.IO sofware catalog]: https://CAPTCHAs.IO.com/software
-[pingback settings]: https://CAPTCHAs.IO.com/setting/pingback
-[post options]: https://CAPTCHAs.IO.com/CAPTCHAs.IO-api#normal_post
-[list of supported languages]: https://CAPTCHAs.IO.com/CAPTCHAs.IO-api#language
+[CAPTCHAs.IO]: https://captchas.io
+[CAPTCHAs.IO sofware catalog]: https://captchas.io/software
+[pingback settings]: https://captchas.io/setting/pingback
+[post options]: https://captchas.io/CAPTCHAs.IO-api#normal_post
+[list of supported languages]: https://captchas.io/CAPTCHAs.IO-api#language
 [examples directory]: /examples
